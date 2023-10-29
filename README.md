@@ -1,2 +1,2 @@
 # countdown-dnc
-visualização: countdown-dnc-two.vercel.app
+visualização: https://countdown-dnc-two.vercel.app
